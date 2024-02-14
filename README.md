@@ -1,5 +1,5 @@
 
-![image](https://github.com/ShadowChat/ShadowChat/assets/123836854/67fab491-d7cc-4494-ae8c-3407305139d7)
+![image](https://github.com/ShadowChat/ShadowChat/assets/123836854/f28cad69-a3b4-4cf9-9fd3-7061df21c1cd)
 
 🌟 ShadowChat 🌟
 
