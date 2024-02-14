@@ -1,5 +1,8 @@
-🌟 ShadowChat 🌟
+
 ![image](https://github.com/ShadowChat/ShadowChat/assets/123836854/67fab491-d7cc-4494-ae8c-3407305139d7)
+
+🌟 ShadowChat 🌟
+
 ShadowChat is a secure and private messaging application designed to protect your conversations. With end-to-end encryption and ephemeral messages, your communications remain confidential and disappear after a set period, ensuring your privacy.
 
 🔒 Secure Communication: ShadowChat employs robust encryption algorithms to safeguard all messages exchanged within the platform. Whether you're sharing sensitive information or engaging in casual conversations, rest assured that your communication is fully protected from prying eyes.
