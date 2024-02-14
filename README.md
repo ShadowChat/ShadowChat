@@ -15,6 +15,8 @@ ShadowChat is a secure and private messaging application designed to protect you
 
 🔑 Code-Based Access: Accessing ShadowChat is straightforward - simply create a new chat or join an existing one using the lobby code provided by a friend or colleague. This streamlined approach eliminates the need for complex login procedures and minimizes the risk of unauthorized access.
 
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZybG1sbjJiazFyd3ZndDh4aHZ1dGtrb2lpYjZhMmJqMHNnamhhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9hHzU0qJr88hOVNeor/giphy.gif
+
 📆 Automatic Data Removal: Concerned about data retention? ShadowChat automatically purges all messages, files, and media after three days. This built-in feature ensures that your conversations are transient, offering an added layer of privacy and security.
 
 Experience the freedom of expression without compromising your privacy. Join ShadowChat today and rediscover the joy of secure communication.
