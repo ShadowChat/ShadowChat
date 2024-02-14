@@ -1,5 +1,5 @@
 
-![image](https://github.com/ShadowChat/ShadowChat/assets/123836854/f28cad69-a3b4-4cf9-9fd3-7061df21c1cd)
+![ezgif-2-897b1b58d1](https://github.com/ShadowChat/ShadowChat/assets/123836854/676a1097-f86d-4c57-9f1f-289be32db22d)
 
 🌟 ShadowChat 🌟
 
@@ -9,7 +9,7 @@ ShadowChat is a secure and private messaging application designed to protect you
 
 ⏳ Ephemeral Messages: Say goodbye to worrying about your messages lingering indefinitely. In ShadowChat, messages have a lifespan - they vanish after a predetermined period, ensuring that your conversations remain ephemeral and leave no digital footprint behind.
 
-![giphy](https://github.com/ShadowChat/ShadowChat/assets/123836854/b0467855-0b47-4319-aa46-143908f047d0)
+![ezgif-2-711169a33a](https://github.com/ShadowChat/ShadowChat/assets/123836854/c23e6aa7-c301-47f7-b398-275a7402eedf)
 
 🔑 Code-Based Access: Accessing ShadowChat is straightforward - simply create a new chat or join an existing one using the lobby code provided by a friend or colleague. This streamlined approach eliminates the need for complex login procedures and minimizes the risk of unauthorized access.
 
