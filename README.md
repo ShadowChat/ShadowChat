@@ -23,3 +23,10 @@ Experience the freedom of expression without compromising your privacy. Join Sha
 Join us in revolutionizing secure communication. Download ShadowChat today and start chatting with confidence!
 
 ShadowChat is committed to enhancing your communication experience. Stay tuned for upcoming releases, including mobile applications for seamless messaging on the go and a web-based platform for convenient access from any device. With ShadowChat, secure communication is within reach wherever you are.
+
+VirusTotal shows 2 False positives in very weak antiviruses. I will try to make them disappear! Of course, Eset, Defender, avast etc. have confirmed that the chat is virus-free, so don't be afraid!
+And you also need to confirm SmartScreen because I can't afford a certificate yet! 
+https://www.virustotal.com/gui/file/8edf5466425d1a30ff23e0bde33318be50d1ef4405d96aafb2ceeec85d55ba73?nocache=1
+
+![image](https://github.com/ShadowChat/ShadowChat/assets/123836854/f1fbe541-f426-4a94-bb3d-664b7abf89f0)
+![image](https://github.com/ShadowChat/ShadowChat/assets/123836854/618c7409-5022-44d4-950e-5845aed20674)
